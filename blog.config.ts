@@ -7,9 +7,9 @@ const basicConfig = {
 	description: 'test only',
 	author: {
 		name: 'Axel',
-		avatar: 'https://axelx.cn',
-		email: 'hi@axelx.cn',
-		homepage: 'https://axelx.cn/',
+		avatar: 'https://cdn1.x-lab.top/axelblog/web-icon-blog.webp',
+		email: 'hi@axel.xin',
+		homepage: 'https://sc.axel.xin/',
 	},
 	copyright: {
 		abbr: 'CC BY-NC-SA 4.0',
@@ -20,7 +20,7 @@ const basicConfig = {
 	language: 'zh-CN',
 	timeEstablished: '2022-09-14',
 	timezone: 'Asia/Shanghai',
-	url: 'https://axelx.cn',
+	url: 'https://sc.axel.xin',
 	defaultCategory: '未分类',
 }
 
