@@ -2,7 +2,7 @@ import type { FeedEntry } from './app/types/feed'
 
 const basicConfig = {
 	title: 'Axel Beta',
-	subtitle: '学科竞赛',
+	subtitle: 'Test only',
 	// 长 description 利好于 SEO
 	description: 'test only',
 	author: {
