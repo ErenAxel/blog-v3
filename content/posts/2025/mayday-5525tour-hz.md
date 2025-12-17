@@ -1,10 +1,10 @@
 ---
 title: 「5525回到那一天」五月天杭州站 | MAYDAY TOUR IN Hangzhou
-description: 「5525回到那一天」五月天杭州站 | MAYDAY TOUR IN Hangzhou
 date: 2025-05-29 01:07:16
 image: https://cdn1.x-lab.top/axelblog/mayday5525hz_8.webp
 categories: [TOUR]
 tags: [演唱会, 五月天, 杭州]
+featured: true
 ---
 
 是的没错，抢到了**MAYDAY「5525回到那一天」杭州大莲花**的门票啦！
