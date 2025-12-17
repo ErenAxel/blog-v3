@@ -2,16 +2,16 @@
 <BlogWidget
 	card
 	dim
-	title="博客/技术社区"
-	bg-img="https://p.qlogo.cn/gh/169994096/169994096/100/"
+	title="这里还没想好放什么"
+	bg-img="/"
 	bg-right
 >
 	<div class="title text-creative">
-		纸网接入点
+		xxxx
 	</div>
 
 	<Tip copy :icon="false" :tip-options="{ placement: 'left' }">
-		<Icon name="ri:qq-fill" />169994096
+		<Icon name="ri:qq-fill" />xxx
 	</Tip>
 </BlogWidget>
 </template>
